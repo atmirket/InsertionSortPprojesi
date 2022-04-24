@@ -9,7 +9,7 @@
 ```
 # Big O Nation
 
-n=6, O(6)
+n=6, O(6^2)
 
 # Time Complexity
 
